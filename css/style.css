@@ -1,0 +1,8 @@
+.spacingNavbar ul li a{
+    margin-right: 23px;
+}
+.slider-img img {
+  height: 400px; /* Set your desired height */
+  object-fit: cover !important; 
+  
+}
